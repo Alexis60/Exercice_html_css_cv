@@ -32,6 +32,11 @@ text-align: center;
   border-top: solid;
   border-color: blue;
   border-width: thick;
+  background-image: url(fond_bas_cv.png);
+}
+.contenuh2 span
+{
+  border-bottom: solid black;
 }
 h1
 {
@@ -40,11 +45,15 @@ h1
 }
 
 
-.BEP
+#BEP
 {
   color: blue;
 }
-.BAC
+#BAC
 {
   color: blue;
+}
+.dates
+{
+  margin-bottom: 10px
 }
