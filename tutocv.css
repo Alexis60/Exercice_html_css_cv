@@ -1,0 +1,50 @@
+body
+
+.hautdepage
+{
+  background-color: grey
+}
+.clear
+{
+  clear: both;
+}
+.nom
+{
+text-align: center;
+}
+.infos_persos
+{
+  float: left;
+  width: 90%;
+}
+.photo
+{
+  width: 10%;
+  float: left;
+}
+.adresse_et_numero_de_tel
+{
+  text-align:right;
+}
+.contenuh2
+{
+  text-align: justify;
+  border-top: solid;
+  border-color: blue;
+  border-width: thick;
+}
+h1
+{
+  text-align: center;
+  color : black;
+}
+
+
+.BEP
+{
+  color: blue;
+}
+.BAC
+{
+  color: blue;
+}
