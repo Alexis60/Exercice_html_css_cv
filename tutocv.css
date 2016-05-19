@@ -1,5 +1,12 @@
 body
-
+{
+ font-family: century gothic;
+}
+@font-face
+ {
+  font-family: 'century gothic';
+  src: url(ufonts.com_century-gothic.ttf);
+}
 .hautdepage
 {
   background-color: grey
@@ -32,11 +39,27 @@ text-align: center;
   border-top: solid;
   border-color: blue;
   border-width: thick;
-  background-image: url(fond_bas_cv.png);
+  background-image: url(fond-cv-papier-white.jpg);
 }
 .contenuh2 span
 {
   border-bottom: solid black;
+}
+#icone_diplome
+{
+  width: 30px;
+}
+#icone_experience
+{
+  width: 30px;
+}
+#icone_competences
+{
+  width: 30px;
+}
+#icone_loisirs
+{
+  width: 30px;
 }
 h1
 {
